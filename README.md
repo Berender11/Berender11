@@ -5,10 +5,10 @@ I'm a passionate developer who loves building creative solutions with code. Alwa
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, Python, TypeScript, [add more]
-- **Frameworks/Libraries:** React, Node.js, Express, [add more]
-- **Tools:** Git, Docker, VS Code, [add more]
-- **Other:** REST APIs, SQL, CI/CD, [add more]
+- **Languages:** JavaScript, Python, TypeScript, C/C++, 
+- **Frameworks/Libraries:** React, Flask, Django, Node.js, Express
+- **Tools:** Git, Docker, VS Code
+- **Other:** REST APIs, Fast APIs, SQL, CI/CD
 
 ## 🚀 Projects
 
