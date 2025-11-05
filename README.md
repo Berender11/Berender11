@@ -22,7 +22,7 @@ Here are some projects I'm proud of:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/berender-yadav-aaa40b252/)
-- Email: berender.tech@gmail.com
+- Email: berendery1@gmail.com
 
 ## 🎉 Fun Fact
 
